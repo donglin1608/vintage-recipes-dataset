@@ -14,6 +14,7 @@ This is first version which contain 77 clean and well organized JSON format, upd
 
 ## 📄 License
 Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)
+👉 https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt
 
 ## 🙌 How to Cite
 Daniel Xiong. (2025). *Vintage Recipes Dataset*. GitHub. https://github.com/donglin1608/vintage-recipes-dataset
